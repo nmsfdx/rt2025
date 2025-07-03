@@ -240,4 +240,4 @@ if __name__ == "__main__":
     discharging_example()
     
     # Uncomment for interactive mode:
-    # interactive_power_input()
+    interactive_power_input()
