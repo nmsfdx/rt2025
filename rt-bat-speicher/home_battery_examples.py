@@ -6,9 +6,9 @@ Demonstrates realistic home energy storage scenarios
 import pybamm
 import numpy as np
 import matplotlib.pyplot as plt
-
 # Import the updated BatterySimulator
-exec(open('bat-speicher.py').read())
+
+
 
 def tesla_powerwall_example():
     """Simulate a Tesla Powerwall-like system"""
